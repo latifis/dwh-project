@@ -1,0 +1,32 @@
+[ {
+  "baseItem" : {
+    "id" : "_75AT0LXhEe6WSJTXHsxeDg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_MmS_QLXcEe6WSJTXHsxeDg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_T9U6YLXgEe6WSJTXHsxeDg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_MmS_QLXcEe6WSJTXHsxeDg - customer",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_MmS_QLXcEe6WSJTXHsxeDg - product",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_MmS_QLXcEe6WSJTXHsxeDg - sales_order",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_MmS_QLXcEe6WSJTXHsxeDg - status_order",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]
